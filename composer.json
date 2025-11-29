@@ -1,0 +1,25 @@
+{
+    "name": "stephynoe/contactform",
+    "description": "Laravel Contact Form Package",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Stephynoe\\Contactform\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers" : [
+                "Stephynoe\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilori Toluwalope"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

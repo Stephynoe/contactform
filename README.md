@@ -1,0 +1,1 @@
+This is a Laravel package used for learning how to c reate a package
